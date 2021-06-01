@@ -1,2 +1,1 @@
-TinDog 
-Designed the tinder version for dogs called 'tindog' using HTML, CSS & Bootstrap
+TinDog - the tinder version for dogs called 'tindog' using HTML, CSS & Bootstrap
