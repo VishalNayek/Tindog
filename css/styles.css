@@ -182,6 +182,14 @@ p{
     margin:20px 10px ; 
 }
 
+.footer-icon{
+    text-decoration: none;
+    color:inherit;
+}
+
+.footer-icon:hover{
+    color:#ff4c68;
+}
 
 
 
